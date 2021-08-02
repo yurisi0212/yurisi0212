@@ -1,6 +1,11 @@
-### Hi there 👋
+### このStatsとかいうやつA+以外見たことないよねまじで
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yurisi0212)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yurisi0212&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisi0212" />
+</a>
 
 <!--
 **yurisi0212/yurisi0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
