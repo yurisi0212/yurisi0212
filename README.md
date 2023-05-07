@@ -6,6 +6,8 @@
 
 railsやlaravelを用いたwebアプリケーション開発 
 
+Reactを用いたSPA開発
+
 PocketMine-MPのプラグイン開発 
 
 C#を用いたデスクトップアプリケーション開発 
